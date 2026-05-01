@@ -1,0 +1,4 @@
+project_id = "ircfcgxtjfamdumxzxzd"
+
+[functions.kb-ask]
+verify_jwt = false

@@ -1,0 +1,1 @@
+ALTER TYPE public.leave_type_enum ADD VALUE 'birthday_leave';

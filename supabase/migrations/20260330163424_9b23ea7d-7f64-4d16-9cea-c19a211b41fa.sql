@@ -1,0 +1,1 @@
+DELETE FROM ticket_assignees WHERE id = '95ac80f8-9764-4084-a8da-6d5879c5c2df' AND ticket_id = '9b7a952a-1182-4e73-99cf-145ca61d5b97' AND user_id = 'f8fe72ba-3fe2-4fcc-820d-c1f55ca9cc61';

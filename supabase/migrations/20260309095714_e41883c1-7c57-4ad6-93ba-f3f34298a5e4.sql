@@ -1,0 +1,15 @@
+INSERT INTO public.holidays (name, month, day, emoji) VALUES
+('New Year''s Day', 1, 1, '🎆'),
+('EDSA People Power Revolution Anniversary', 2, 25, '✊'),
+('Araw ng Kagitingan (Day of Valor)', 4, 9, '🇵🇭'),
+('Maundy Thursday', 4, 17, '✝️'),
+('Good Friday', 4, 18, '✝️'),
+('Labor Day', 5, 1, '👷'),
+('Philippine Independence Day', 6, 12, '🇵🇭'),
+('Ninoy Aquino Day', 8, 21, '🕊️'),
+('National Heroes Day', 8, 25, '🦸'),
+('Bonifacio Day', 11, 30, '🇵🇭'),
+('Christmas Eve', 12, 24, '🎄'),
+('Christmas Day', 12, 25, '🎅'),
+('Rizal Day', 12, 30, '📜'),
+('New Year''s Eve', 12, 31, '🎇');

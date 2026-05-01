@@ -1,0 +1,1 @@
+ALTER TABLE public.leave_endorsement_items ADD COLUMN IF NOT EXISTS task_update_notes TEXT DEFAULT NULL;

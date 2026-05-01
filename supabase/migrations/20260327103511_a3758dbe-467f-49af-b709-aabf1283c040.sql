@@ -1,0 +1,1 @@
+ALTER TABLE public.leave_requests ADD COLUMN IF NOT EXISTS is_backdated boolean NOT NULL DEFAULT false;

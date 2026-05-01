@@ -1,0 +1,1 @@
+ALTER TYPE public.priority_enum ADD VALUE 'low';

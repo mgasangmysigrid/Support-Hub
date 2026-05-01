@@ -1,0 +1,1 @@
+ALTER TABLE public.tickets ADD COLUMN IF NOT EXISTS final_overdue_seconds numeric DEFAULT NULL

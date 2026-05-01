@@ -1,0 +1,1 @@
+ALTER TABLE public.leave_exemptions ADD COLUMN IF NOT EXISTS can_self_approve boolean NOT NULL DEFAULT false;
